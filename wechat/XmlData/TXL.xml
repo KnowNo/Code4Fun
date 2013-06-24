@@ -1,0 +1,31 @@
+﻿<?xml version="1.0"?>
+<TXL xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Member>
+    <Name>大头举</Name>
+    <Phone>13342332112</Phone>
+    <QQ>1231231</QQ>
+    <WorkCity>上海</WorkCity>
+    <NativeCity>河南周口</NativeCity>
+    <Remark />
+    <Post />
+  </Member>
+  <Member>
+    <Name>小头举</Name>
+    <Phone>13232332112</Phone>
+    <QQ>978967</QQ>
+    <WorkCity>上海</WorkCity>
+    <NativeCity>广东佛山</NativeCity>
+    <Remark />
+    <Post />
+  </Member>
+  <Member>
+    <Name>大蛋举</Name>
+    <Phone>13842332112</Phone>
+    <QQ>456456</QQ>
+    <WorkCity>上海</WorkCity>
+    <NativeCity>湖北武汉</NativeCity>
+    <Remark />
+    <Post />
+  </Member>
+  <Member>
+</TXL>
