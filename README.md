@@ -1,4 +1,4 @@
-ExampleCode
+Code4Fun
 ===========
 
-Example Code
+Just 4 Fun

@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<ResponseMsg xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<Text>您好，这是文本信息。</Text>
+  <Subscribe>您好，这是订阅事件。感谢您关注XXX。</Subscribe>
+  <Unsubscribe>您好，此用户已取消订阅!</Unsubscribe>
+  <TXL>您好，这里是通讯录尾端的附加信息。</HKTXL>
+</ResponseMsg>
