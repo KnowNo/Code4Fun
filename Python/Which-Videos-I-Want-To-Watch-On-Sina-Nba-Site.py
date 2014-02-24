@@ -30,7 +30,7 @@ if matches:
 	j = json.loads(matches.group(0))
 	for item in j["list"]:
 		title = item["title"] 
-		if "视频集锦" in title or "10佳球" in title: 
+		if "视频集锦" in title or "10佳球" in title or "官方5佳球" in title 
 			print('''
 				%s<li>
 				<span style="width:400px;display:inline-block;"><a href="%s" target="_blank">%s</a></span>
